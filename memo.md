@@ -3,7 +3,7 @@
 [Learn Enough JavaScript](https://www.learnenough.com/javascript-tutorial/hello_world)
 [リポジトリ](https://shuito1992.github.io/js_tutorial/)
 
-進捗: ch4-
+進捗: ch4.5-
 
 ## ch1
 
@@ -127,8 +127,35 @@ Box 1.2. What’s in a name?
 
 ### 単語
 
-
+* `under the hood` 内部では
+* `fire up` 起動する
+* `in handy` 便利で
+* `trigonometric` 三角関数
+* `dovetail` ありつぎ(する)  
+    * (注) 一方の木材に蟻枘(ありほぞ)を作り、他方の木材に蟻穴を作ってはめ込む継ぎ手
+* `wary` 用心深い
+* `go so far as to` 〜しさえする、ついに〜までやってしまう
+* `terse` 簡潔
+* `error-prone` エラーを起こしやすい
+* `ameliorate` 改善する
+* `ZIP code` 郵便番号
+* `come with` 付属している、同伴している
+* `pseudo` 疑似
+* `parallel` 匹敵する、類似する
+* `dizzyingly` めまいがするほど
+* `incarnation` 化身、具体化
+* `run of` 魚の群れ
+* `subtle` 微妙な
+* `dedicated` 熱心な、専用の
 
 ### 文
 
+## ch5
+
+### 単語
+
+
+
+
+### 文
 
