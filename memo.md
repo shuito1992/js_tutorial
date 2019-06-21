@@ -41,12 +41,10 @@
 * `take place` 起こる、行われる
 * `subsequent` その後の
 * `down the line` そのうちに
-* `auxiliary` 補助
+* `auxiliary [ɔːgzíliəri]` 補助
 * `precede` 前に置く
 * `elaboration` 骨折って作ること、精巧さ
 * `interchangeably` 互換的に
-
-
 
 ### 文
 
@@ -101,7 +99,6 @@ Box 1.2. What’s in a name?
 * `humble` 粗末な
 * `kluge` その場しのぎの安易な方法
 
-
 ### 文
 
 2.3 Printing
@@ -125,7 +122,6 @@ Box 1.2. What’s in a name?
 * `accumulate` 蓄積する
 * `constituent` 構成要素
 * `blemish` 欠点
-* 
 
 ### 文
 
@@ -137,7 +133,7 @@ Box 1.2. What’s in a name?
 * `fire up` 起動する
 * `in handy` 便利で
 * `trigonometric` 三角関数
-* `dovetail` ありつぎ(する)  
+* `dovetail [dʌ́vtèɪl]` ありつぎ(する)  
     * (注) 一方の木材に蟻枘(ありほぞ)を作り、他方の木材に蟻穴を作ってはめ込む継ぎ手
 * `wary` 用心深い
 * `go so far as to` 〜しさえする、ついに〜までやってしまう
@@ -146,7 +142,7 @@ Box 1.2. What’s in a name?
 * `ameliorate` 改善する
 * `ZIP code` 郵便番号
 * `come with` 付属している、同伴している
-* `pseudo` 疑似
+* `pseudo [súːdoʊ]` 疑似
 * `parallel` 匹敵する、類似する
 * `dizzyingly` めまいがするほど
 * `incarnation` 化身、具体化
@@ -161,15 +157,15 @@ Box 1.2. What’s in a name?
 ### 単語
 
 * `as far as 〜 is concerned` 〜に関する限りは
-* `conundrum` なぞなぞ、難問
+* `conundrum [kənʌ́ndrəm]` なぞなぞ、難問
 * `idiomatically` 慣用的に
 * `factor` 因数分解する
 * `a first resort` 最初にやるべきこと
 * `leg-up` 援助
 * `glitch` 問題、故障
 * `awry` 曲がって、間違って
-* `caveat` 警告
-* `auxiliary` 補助
+* `caveat [kˈæviὰːt]` 警告
+* `auxiliary [ɔːgzíliəri]` 補助
 
 
 ### 文
@@ -186,5 +182,65 @@ Box 1.2. What’s in a name?
 
 * `rep` 反復(repetition)
 * `grok` 意味を捉える
+* `martial arts` 武術
+* `reflection` 熟考、内省
+* `kinda` (=kind of)
+* `sorta` (=sort of)
+* `suspend` 保留する
+* `triumvirate [traiʌ́mvərət]` 三位一体
+* `imperative` 命令的な、必須の
+* `factor` 因数分解する
+* `triumvir [traiʌ́mvər]` (古代ローマの)三執政の一人
+* `underscore` 強調する
+* `mighty` 力強い
+* `auxiliary [ɔːgzíliəri]` 補助
+* `snippet` 切れ端
+* `condense` 凝縮する
+* `succinct [səksíŋkt]` 簡潔
+* `principal` 主要な
 
 ### 文
+
+6.3.2 Reduce, example 2
+> Indeed, a good argument can be made that the imperative solution is clearer.
+
+## ch7
+
+### 単語
+
+* `in effect` 事実上
+* `endow` 与える
+* `poke around` 詮索する
+* `talking shop` (問題解決などのために)議論するだけで行動に移さない委員会(グループ)
+* `all-caps` 全部大文字で書かれた
+* `enterprising` 意欲的な
+* `misfeature` 設計ミス
+* `clutter` 取り散らかす
+* `backport` (ソフトウェアの新しいバージョンでの修正・新機能などを)古いバージョン用に移植する
+* `confidant` 腹心
+* `depict` 描く
+* `mock` 疑似
+* `swordfight` ちゃんばら
+* `take order` 注文を取る
+* `adhere` 固執する
+* `pique` 興奮させる、(興味を)そそる
+* `wield` 振り回す
+* `caveat [kˈæviὰːt]` 警告
+* `admonition` 訓戒
+
+### 文
+
+7.3 Modifying native objects
+> At one point in their mock swordfight, Achilles switches his wooden training sword from his right hand to his left, holding it up to Patroclus’s neck. In response, Patroclus exclaims, “You told me never to change sword hands!” “Yes,” replies Achilles. “When you know how to use it, you won’t be taking my orders.”
+
+> In the case of JavaScript, per MDN’s admonition not to add non-standard functionality, we’ll stick with adding only reverse, which arguably belongs in the language as part of the String object (and indeed some languages do include a native string  reverse method).
+
+## ch8
+
+### 単語
+
+* `fulfill` 満たす、果たす
+
+
+### 文
+
