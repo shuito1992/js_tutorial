@@ -3,7 +3,8 @@
 [Learn Enough JavaScript](https://www.learnenough.com/javascript-tutorial/hello_world)
 [リポジトリ](https://shuito1992.github.io/js_tutorial/)
 
-進捗: ch4.5-
+進捗: 5.3 Method chainingの次の文から
+> There’s one minor refinement it would be nice to add right away
 
 ## ch1
 
@@ -98,6 +99,8 @@ Box 1.2. What’s in a name?
 * `auspicious` 縁起のよい
 * `if at all possible` できるだけ
 * `humble` 粗末な
+* `kluge` その場しのぎの安易な方法
+
 
 ### 文
 
@@ -120,6 +123,9 @@ Box 1.2. What’s in a name?
 * `as of writing` これを書いている時点で
 * `as of` 現在
 * `accumulate` 蓄積する
+* `constituent` 構成要素
+* `blemish` 欠点
+* 
 
 ### 文
 
@@ -154,8 +160,31 @@ Box 1.2. What’s in a name?
 
 ### 単語
 
-
+* `as far as 〜 is concerned` 〜に関する限りは
+* `conundrum` なぞなぞ、難問
+* `idiomatically` 慣用的に
+* `factor` 因数分解する
+* `a first resort` 最初にやるべきこと
+* `leg-up` 援助
+* `glitch` 問題、故障
+* `awry` 曲がって、間違って
+* `caveat` 警告
+* `auxiliary` 補助
 
 
 ### 文
 
+5.1.2 Fat arrow
+> It also maps more cleanly to the way you actually call functions:
+
+5.4 Iteration for each
+> That said, I find it helps not to pronounce “function” (whether aloud or in your head), so that it sounds like “array: for each element <do something>.”
+
+## ch6
+
+### 単語
+
+* `rep` 反復(repetition)
+* `grok` 意味を捉える
+
+### 文
