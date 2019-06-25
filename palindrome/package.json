@@ -1,0 +1,11 @@
+{
+  "name": "shu-palindrome",
+  "version": "0.1.0",
+  "description": "hogehoge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
