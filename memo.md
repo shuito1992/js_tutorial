@@ -240,7 +240,66 @@ Box 1.2. What’s in a name?
 ### 単語
 
 * `fulfill` 満たす、果たす
-
+* `coupled` 結合した
+* `state of affairs` 情勢
+* `Semver` 意地悪、`semantic versioning`の略
+* `semantic` 意味の、意味論の
+* `so to speak` いわば
+* `pending` 保留中の
+* `placeholder` 代替物
+* `punctuation` 句読点
+* `thereby` それによって
+* `regression` 回帰
+* `circumstance` 状況、都合
+* `inclined` 〜する傾向がある
+* `codify` 成文化する
+* `brevity` 簡潔
+* `specification` 仕様
+* `cumbersome [kʌ́mbərsəm]` 面倒な
+* `austerity [ɔːstérəti]` 緊縮
+* `huzzah [həˈzɑː]` 掛け声、フレー
+* `subtlety [sʌ́təlti]` 微妙(な点)
+* `copacetic [kòʊpəséṭɪk]` すばらしい、順調な
+* `presumably` おそらく
+* `abuse` 乱用する
 
 ### 文
 
+8.3 Red
+> (Note here that we can actually call letters() on a new Phrase—JavaScript knows to create the new object instance before calling the letters() method on it.)
+
+## ch9
+
+### 単語
+
+* `in line with` 〜に沿って
+* `astray` 道に迷って
+* `gloss over` 上辺を飾る、うまくこじつける
+* `turn up` 発見する
+* `big fat` ひどく目立つ、厚かましい
+* `sower` 蒔く
+* `vacuous [vˈækjuəs]` 空の 無意味な
+
+### 文
+
+## ch10
+
+### 単語
+
+* `niche` 適した所
+* `en route [ɑːnrúːt]` 途中、行き掛け
+* `feat` 業績
+* `allude` ほのめかす
+* `browser-centric` ブラウザ中心の
+* `opt` 選ぶ
+* `enigmatic` 謎めいた
+* `aspire to` 〜を目指す
+* `as of` 〜のように
+* `bootstrap` 自力で〜する
+* `arise` 起こる、生じる
+* `friction` 摩擦
+* `duly [dúːli]` きちんと
+* `offhand` 即座に
+* `traverse` 横断する
+
+### 文

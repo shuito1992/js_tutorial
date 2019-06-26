@@ -1,0 +1,12 @@
+#! /usr/bin/node
+
+const request = require("request");
+const Phrase  = require("./palindrome/index.js")
+const url     = "https://cdn.learnenough.com/phrases.txt"
+
+request(url, function(error, response, body) {
+  let lines = body.split("\n");
+  let palindromes = lines.filter(line => (new Phrase(line)).palindrome());
+  palindromes.forEach(palin => console.log("palindrome detected:", palin));
+});
+
