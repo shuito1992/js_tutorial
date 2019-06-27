@@ -301,5 +301,23 @@ Box 1.2. What’s in a name?
 * `duly [dúːli]` きちんと
 * `offhand` 即座に
 * `traverse` 横断する
+* `prep` 準備する
 
 ### 文
+
+## ch11
+
+### 単語
+
+* `requisite [rékwəzit]` 必要(不可欠)な
+* `full-blown` 本格的な
+* `swap out` 〜を退避させる
+* `for the sake of` 〜のために
+* `unobtrusive` 目立たない
+* `give it a go` ためしてみる
+* `arranges for` 〜を手配する
+* `snappy` てきぱき
+* `hoist [hɔ́ist]` 巻き上げる
+* `Well-regarded` 評判のよい
+* `indubitably [indúːbətəbl]` 必然的に
+* `monoglot` 一言語使用者
